@@ -189,4 +189,5 @@ PSD.playbutton.on(Events.Click, function (event, layer) {
         curve: 'ease-out'
     });
 })
+console.log('gh-pages');
 
