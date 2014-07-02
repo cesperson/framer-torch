@@ -122,6 +122,54 @@ window.__imported__["export-again/layers.json.js"] = [
 		"visible": true
 	},
 	{
+		"id": "DC700A5D-83E6-480B-815D-D24F8391028A",
+		"name": "oneday",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 82,
+			"y": 1031,
+			"width": 182,
+			"height": 33
+		},
+		"image": {
+			"path": "images/DC700A5D-83E6-480B-815D-D24F8391028A.png",
+			"frame": {
+				"x": 82,
+				"y": 1031,
+				"width": 182,
+				"height": 33
+			}
+		},
+		"imageType": "png",
+		"modification": null,
+		"children": [],
+		"visible": true
+	},
+	{
+		"id": "077C1A55-DF6F-4545-B1CB-B187F7842C95",
+		"name": "onedaywhite",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 82,
+			"y": 1031,
+			"width": 521,
+			"height": 33
+		},
+		"image": {
+			"path": "images/077C1A55-DF6F-4545-B1CB-B187F7842C95.png",
+			"frame": {
+				"x": 82,
+				"y": 1031,
+				"width": 521,
+				"height": 33
+			}
+		},
+		"imageType": "png",
+		"modification": null,
+		"children": [],
+		"visible": true
+	},
+	{
 		"id": "D168029C-9B72-469B-94DE-8BFD2BB9D05E",
 		"name": "bigcircle",
 		"maskFrame": null,
@@ -218,22 +266,22 @@ window.__imported__["export-again/layers.json.js"] = [
 		"visible": true
 	},
 	{
-		"id": "8E987077-B394-4207-A1A2-F4643DE3E167",
-		"name": "controlpanel",
+		"id": "4AE97D3F-E87A-470B-A972-D466857325D0",
+		"name": "topline",
 		"maskFrame": null,
 		"layerFrame": {
 			"x": 0,
-			"y": 1678,
+			"y": 749,
 			"width": 640,
-			"height": 227
+			"height": 30
 		},
 		"image": {
-			"path": "images/8E987077-B394-4207-A1A2-F4643DE3E167.png",
+			"path": "images/4AE97D3F-E87A-470B-A972-D466857325D0.png",
 			"frame": {
 				"x": 0,
-				"y": 1678,
+				"y": 749,
 				"width": 640,
-				"height": 227
+				"height": 30
 			}
 		},
 		"imageType": "png",
@@ -242,7 +290,7 @@ window.__imported__["export-again/layers.json.js"] = [
 		"visible": true
 	},
 	{
-		"id": "AA35EF58-2732-48E5-9E0A-C6FA790FCD50",
+		"id": "4F85A260-5F8C-4B52-9041-1DC3C28462BB",
 		"name": "playbutton",
 		"maskFrame": null,
 		"layerFrame": {
@@ -252,7 +300,7 @@ window.__imported__["export-again/layers.json.js"] = [
 			"height": 100
 		},
 		"image": {
-			"path": "images/AA35EF58-2732-48E5-9E0A-C6FA790FCD50.png",
+			"path": "images/4F85A260-5F8C-4B52-9041-1DC3C28462BB.png",
 			"frame": {
 				"x": 496,
 				"y": 731,
@@ -264,7 +312,7 @@ window.__imported__["export-again/layers.json.js"] = [
 		"modification": null,
 		"children": [
 			{
-				"id": "ADB86FE5-95D0-4DCD-9D59-42FF26077164",
+				"id": "8ACE725D-C9D6-41AF-97FD-5533ACF1538A",
 				"name": "playicon",
 				"maskFrame": null,
 				"layerFrame": {
@@ -274,7 +322,7 @@ window.__imported__["export-again/layers.json.js"] = [
 					"height": 23
 				},
 				"image": {
-					"path": "images/ADB86FE5-95D0-4DCD-9D59-42FF26077164.png",
+					"path": "images/8ACE725D-C9D6-41AF-97FD-5533ACF1538A.png",
 					"frame": {
 						"x": 539,
 						"y": 768,
@@ -288,7 +336,7 @@ window.__imported__["export-again/layers.json.js"] = [
 				"visible": true
 			},
 			{
-				"id": "E18709BC-328B-45B6-AF54-77EABC57D761",
+				"id": "623D960D-9AAE-4359-8F94-AC16DED3563E",
 				"name": "playcirclenoshadow",
 				"maskFrame": null,
 				"layerFrame": {
@@ -298,7 +346,7 @@ window.__imported__["export-again/layers.json.js"] = [
 					"height": 90
 				},
 				"image": {
-					"path": "images/E18709BC-328B-45B6-AF54-77EABC57D761.png",
+					"path": "images/623D960D-9AAE-4359-8F94-AC16DED3563E.png",
 					"frame": {
 						"x": 501,
 						"y": 734,
@@ -312,7 +360,7 @@ window.__imported__["export-again/layers.json.js"] = [
 				"visible": true
 			},
 			{
-				"id": "6F344242-71AF-4DF3-BF4F-F55DAC38C831",
+				"id": "63ED9509-D06F-4917-B269-EBC1D33EFD3E",
 				"name": "playcirclewithshadow",
 				"maskFrame": null,
 				"layerFrame": {
@@ -322,7 +370,7 @@ window.__imported__["export-again/layers.json.js"] = [
 					"height": 100
 				},
 				"image": {
-					"path": "images/6F344242-71AF-4DF3-BF4F-F55DAC38C831.png",
+					"path": "images/63ED9509-D06F-4917-B269-EBC1D33EFD3E.png",
 					"frame": {
 						"x": 496,
 						"y": 731,
@@ -339,12 +387,36 @@ window.__imported__["export-again/layers.json.js"] = [
 		"visible": true
 	},
 	{
+		"id": "AA35EF58-2732-48E5-9E0A-C6FA790FCD50",
+		"name": "playbuttonsmall",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 20,
+			"y": 1031,
+			"width": 32,
+			"height": 32
+		},
+		"image": {
+			"path": "images/AA35EF58-2732-48E5-9E0A-C6FA790FCD50.png",
+			"frame": {
+				"x": 20,
+				"y": 1031,
+				"width": 32,
+				"height": 32
+			}
+		},
+		"imageType": "png",
+		"modification": null,
+		"children": [],
+		"visible": true
+	},
+	{
 		"id": "749EFEF5-C4F3-456B-9638-696C83C95677",
 		"name": "ff",
 		"maskFrame": null,
 		"layerFrame": {
 			"x": 475,
-			"y": 873,
+			"y": 853,
 			"width": 26,
 			"height": 12
 		},
@@ -352,7 +424,7 @@ window.__imported__["export-again/layers.json.js"] = [
 			"path": "images/749EFEF5-C4F3-456B-9638-696C83C95677.png",
 			"frame": {
 				"x": 475,
-				"y": 873,
+				"y": 853,
 				"width": 26,
 				"height": 12
 			}
@@ -368,7 +440,7 @@ window.__imported__["export-again/layers.json.js"] = [
 		"maskFrame": null,
 		"layerFrame": {
 			"x": 125,
-			"y": 873,
+			"y": 853,
 			"width": 26,
 			"height": 12
 		},
@@ -376,7 +448,7 @@ window.__imported__["export-again/layers.json.js"] = [
 			"path": "images/5AA5CD38-4BEA-481E-8BA7-F26A1A8D17D0.png",
 			"frame": {
 				"x": 125,
-				"y": 873,
+				"y": 853,
 				"width": 26,
 				"height": 12
 			}
@@ -403,6 +475,79 @@ window.__imported__["export-again/layers.json.js"] = [
 				"y": 1084,
 				"width": 644,
 				"height": 54
+			}
+		},
+		"imageType": "png",
+		"modification": null,
+		"children": [],
+		"visible": true
+	},
+	{
+		"id": "42EBDD2D-597E-4C2A-A5F8-08E2494C7DB0",
+		"name": "speakersline",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 136,
+			"y": 932,
+			"width": 354,
+			"height": 24
+		},
+		"image": {
+			"path": "images/42EBDD2D-597E-4C2A-A5F8-08E2494C7DB0.png",
+			"frame": {
+				"x": 136,
+				"y": 932,
+				"width": 354,
+				"height": 24
+			}
+		},
+		"imageType": "png",
+		"modification": null,
+		"children": [
+			{
+				"id": "5F4D2F10-E31B-4889-B1A7-8D5CB1559924",
+				"name": "Shape",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 462,
+					"y": 932,
+					"width": 28,
+					"height": 24
+				},
+				"image": {
+					"path": "images/5F4D2F10-E31B-4889-B1A7-8D5CB1559924.png",
+					"frame": {
+						"x": 462,
+						"y": 932,
+						"width": 28,
+						"height": 24
+					}
+				},
+				"imageType": "png",
+				"modification": null,
+				"children": [],
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	{
+		"id": "F1FBD2D6-B0A0-42DB-81EB-77FD2D189B10",
+		"name": "positionline",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 230,
+			"y": 936,
+			"width": 22,
+			"height": 22
+		},
+		"image": {
+			"path": "images/F1FBD2D6-B0A0-42DB-81EB-77FD2D189B10.png",
+			"frame": {
+				"x": 230,
+				"y": 936,
+				"width": 22,
+				"height": 22
 			}
 		},
 		"imageType": "png",
